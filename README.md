@@ -25,6 +25,9 @@
 Fooocus is...
 > is "a rethinking Stable Diffusion and Midjourney designs"
 
+--------- 
+> Notes from the Fooocus repository...
+
 (Last tested - 2023 Dec 12)
 
 | Colab | Info
@@ -37,6 +40,7 @@ In Colab, you can modify the last line to `!python entry_with_update.py --share`
 
 Note that this Colab will disable refiner by default because Colab free's resource is relatively limited (and some "big" features like image prompt may cause free-tier Colab to disconnect). We make sure that basic text-to-image is always working on free-tier Colab.
 
+---------
 #### Jack's tips
 
 1. Make sure to turn on the GPU runtime and select the T4 GPU. Here is a video below for how to do that:
