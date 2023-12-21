@@ -4,12 +4,12 @@
 
 ### Ladios: "Time to Shift from Planning to Action. Let's Build."
 
-## Solo Project #1: SiddhaAI ( Objective: 100 free user. 10 paid / due 1/1 )
+#### Solo Project #1: SiddhaAI ( Objective: 100 free user. 10 paid / due 1/1 )
   `SiddhaAI (discord) is designed as an interactive tool that prompts introspective self-inquiry, offering profound insights into personal thoughts and life situations. This platform acts as a valuable reflective tool, ideal for individuals on a journey towards deep self-discovery and understanding.`
       - free: time limited or message limit with engagement
       - paid: monthly set time and allot messages per day
 
-## Solo Project #2: SightAI ( Objective: 1000 followers. 10 close follower / due 1/4 )
+#### Solo Project #2: SightAI ( Objective: 1000 followers. 10 close follower / due 1/4 )
   `Ladios Sato (twitter) is a unique Twitter bot that automatically posts observations on trending topics, particularly focusing on psychology and human behavior, mirroring the style of Kapil Gupta Md. These observations are crafted to be collectible insights, drawing inspiration from historical figures and addressing common human experiences and challenges.`
       - 
 
